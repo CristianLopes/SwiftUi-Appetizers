@@ -9,7 +9,9 @@ import SwiftUI
 
 struct AppetizerDetailView: View {
     
-    let appetizer: Appetizer
+    @EnvironmentObject var order: Order
+    
+    let appetizer: AppetizerModel
     @Binding var isShowingDetail: Bool
     
     var body: some View {
@@ -48,10 +50,13 @@ struct AppetizerDetailView: View {
                 Spacer()
                 
                 Button {
-                    print("Tapped")
+                    order.add(appetizer: appetizer)
+                    isShowingDetail = false
                 } label: {
-                    BrandButton(title: "$\(appetizer.price, specifier: "%.2f") - Add to Order")
+                    Text("$\(appetizer.price, specifier: "%.2f") - Add to Order")
                 }
+                .modifier(StandardButtonStyle())
+                
                 .padding(.bottom, 30)
             }
         }
@@ -91,5 +96,5 @@ struct NutritionInfo : View {
 
 
 #Preview {
-    AppetizerDetailView(appetizer: Appetizer(id: 0, name: "Chicken Wings", description: "You'll need extra napkins with these tasty treats.", price: 11.49, imageURL: "", calories: 700, protein: 11, carbs: 13), isShowingDetail: .constant(true))
+    AppetizerDetailView(appetizer: AppetizerModel(appetizer:  Appetizer(id: 0, name: "Chicken Wings", description: "You'll need extra napkins with these tasty treats.", price: 11.49, imageURL: "", calories: 700, protein: 11, carbs: 13)), isShowingDetail: .constant(true))
 }

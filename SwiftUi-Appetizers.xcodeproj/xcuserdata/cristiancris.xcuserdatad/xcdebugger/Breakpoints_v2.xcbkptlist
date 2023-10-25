@@ -1,0 +1,434 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "0C538C60-CD57-42F5-9E50-0755AA319A6A"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F4DAA1FB-D125-4726-8E39-DB1832CA3547"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SwiftUi-Appetizers/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "getAppetizers(completed:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F4DAA1FB-D125-4726-8E39-DB1832CA3547 - 8a78ed25bff106c7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in SwiftUi_Appetizers.NetworkManager.getAppetizers(completed: (Swift.Result&lt;Swift.Array&lt;SwiftUi_Appetizers.Appetizer&gt;, SwiftUi_Appetizers.ApiError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "SwiftUi-Appetizers"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cristiancris/Documents/GitHub/SwiftUi-Appetizers/SwiftUi-Appetizers/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "176">
+               </Location>
+               <Location
+                  uuid = "F4DAA1FB-D125-4726-8E39-DB1832CA3547 - 8a78ed25bff106c7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in SwiftUi_Appetizers.NetworkManager.getAppetizers(completed: (Swift.Result&lt;Swift.Array&lt;SwiftUi_Appetizers.Appetizer&gt;, SwiftUi_Appetizers.ApiError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "SwiftUi-Appetizers"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cristiancris/Documents/GitHub/SwiftUi-Appetizers/SwiftUi-Appetizers/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "160">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "14A8F1E8-E419-4E3C-9594-B9B2FD7D2EAF"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SwiftUi-Appetizers/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "getAppetizers(completed:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "14A8F1E8-E419-4E3C-9594-B9B2FD7D2EAF - 8a78ed25bff1061c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in SwiftUi_Appetizers.NetworkManager.getAppetizers(completed: (Swift.Result&lt;Swift.Array&lt;SwiftUi_Appetizers.Appetizer&gt;, SwiftUi_Appetizers.ApiError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "SwiftUi-Appetizers"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cristiancris/Documents/GitHub/SwiftUi-Appetizers/SwiftUi-Appetizers/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "200">
+               </Location>
+               <Location
+                  uuid = "14A8F1E8-E419-4E3C-9594-B9B2FD7D2EAF - 8a78ed25bff1061c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in SwiftUi_Appetizers.NetworkManager.getAppetizers(completed: (Swift.Result&lt;Swift.Array&lt;SwiftUi_Appetizers.Appetizer&gt;, SwiftUi_Appetizers.ApiError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "SwiftUi-Appetizers"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cristiancris/Documents/GitHub/SwiftUi-Appetizers/SwiftUi-Appetizers/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "220">
+               </Location>
+               <Location
+                  uuid = "14A8F1E8-E419-4E3C-9594-B9B2FD7D2EAF - 8a78ed25bff1061c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in SwiftUi_Appetizers.NetworkManager.getAppetizers(completed: (Swift.Result&lt;Swift.Array&lt;SwiftUi_Appetizers.Appetizer&gt;, SwiftUi_Appetizers.ApiError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "SwiftUi-Appetizers"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cristiancris/Documents/GitHub/SwiftUi-Appetizers/SwiftUi-Appetizers/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "496">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9DE1C913-449A-442B-92DB-CC6A309F4F39"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SwiftUi-Appetizers/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "40"
+            endingLineNumber = "40"
+            landmarkName = "getAppetizers(completed:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "9DE1C913-449A-442B-92DB-CC6A309F4F39 - 8a78ed25bff101b1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in SwiftUi_Appetizers.NetworkManager.getAppetizers(completed: (Swift.Result&lt;Swift.Array&lt;SwiftUi_Appetizers.Appetizer&gt;, SwiftUi_Appetizers.ApiError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "SwiftUi-Appetizers"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cristiancris/Documents/GitHub/SwiftUi-Appetizers/SwiftUi-Appetizers/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "544">
+               </Location>
+               <Location
+                  uuid = "9DE1C913-449A-442B-92DB-CC6A309F4F39 - 8a78ed25bff10173"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in SwiftUi_Appetizers.NetworkManager.getAppetizers(completed: (Swift.Result&lt;Swift.Array&lt;SwiftUi_Appetizers.Appetizer&gt;, SwiftUi_Appetizers.ApiError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "SwiftUi-Appetizers"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cristiancris/Documents/GitHub/SwiftUi-Appetizers/SwiftUi-Appetizers/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "528">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BB0CD1AB-D579-4919-BFEB-303C82F886D5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SwiftUi-Appetizers/Utilities/Managers/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "67"
+            endingLineNumber = "67"
+            landmarkName = "getAppetizerAsync()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "BB0CD1AB-D579-4919-BFEB-303C82F886D5 - d6d96022d3abcab"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for SwiftUi_Appetizers.NetworkManager.getAppetizerAsync() async throws -&gt; Swift.Array&lt;SwiftUi_Appetizers.Appetizer&gt;"
+                  moduleName = "SwiftUi-Appetizers"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cristiancris/Documents/GitHub/SwiftUi-Appetizers/SwiftUi-Appetizers/Utilities/Managers/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "67"
+                  endingLineNumber = "67"
+                  offsetFromSymbolStart = "184">
+               </Location>
+               <Location
+                  uuid = "BB0CD1AB-D579-4919-BFEB-303C82F886D5 - d6d96022d3abcab"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for SwiftUi_Appetizers.NetworkManager.getAppetizerAsync() async throws -&gt; Swift.Array&lt;SwiftUi_Appetizers.Appetizer&gt;"
+                  moduleName = "SwiftUi-Appetizers"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cristiancris/Documents/GitHub/SwiftUi-Appetizers/SwiftUi-Appetizers/Utilities/Managers/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "67"
+                  endingLineNumber = "67"
+                  offsetFromSymbolStart = "208">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8D9FD3C5-5C99-4D13-97CE-C009FA50144F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SwiftUi-Appetizers/Models/Order.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "40"
+            endingLineNumber = "40"
+            landmarkName = "add(appetizer:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "8D9FD3C5-5C99-4D13-97CE-C009FA50144F - c7954567a68d7d88"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SwiftUi_Appetizers.Order.add(appetizer: SwiftUi_Appetizers.AppetizerModel) -&gt; ()"
+                  moduleName = "SwiftUi-Appetizers"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cristiancris/Documents/GitHub/SwiftUi-Appetizers/SwiftUi-Appetizers/Models/Order.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "256">
+               </Location>
+               <Location
+                  uuid = "8D9FD3C5-5C99-4D13-97CE-C009FA50144F - c7954567a68d7d88"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SwiftUi_Appetizers.Order.add(appetizer: SwiftUi_Appetizers.AppetizerModel) -&gt; ()"
+                  moduleName = "SwiftUi-Appetizers"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cristiancris/Documents/GitHub/SwiftUi-Appetizers/SwiftUi-Appetizers/Models/Order.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "84">
+               </Location>
+               <Location
+                  uuid = "8D9FD3C5-5C99-4D13-97CE-C009FA50144F - b6c6ed8297eff70f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (SwiftUi_Appetizers.AppetizerModel) -&gt; Swift.Bool in SwiftUi_Appetizers.Order.add(appetizer: SwiftUi_Appetizers.AppetizerModel) -&gt; ()"
+                  moduleName = "SwiftUi-Appetizers"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cristiancris/Documents/GitHub/SwiftUi-Appetizers/SwiftUi-Appetizers/Models/Order.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "36">
+               </Location>
+               <Location
+                  uuid = "8D9FD3C5-5C99-4D13-97CE-C009FA50144F - c7954567a68d7da7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SwiftUi_Appetizers.Order.add(appetizer: SwiftUi_Appetizers.AppetizerModel) -&gt; ()"
+                  moduleName = "SwiftUi-Appetizers"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cristiancris/Documents/GitHub/SwiftUi-Appetizers/SwiftUi-Appetizers/Models/Order.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "84">
+               </Location>
+               <Location
+                  uuid = "8D9FD3C5-5C99-4D13-97CE-C009FA50144F - c7954567a68d7da7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SwiftUi_Appetizers.Order.add(appetizer: SwiftUi_Appetizers.AppetizerModel) -&gt; ()"
+                  moduleName = "SwiftUi-Appetizers"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cristiancris/Documents/GitHub/SwiftUi-Appetizers/SwiftUi-Appetizers/Models/Order.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "244">
+               </Location>
+               <Location
+                  uuid = "8D9FD3C5-5C99-4D13-97CE-C009FA50144F - b6c6ed8297eff720"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (SwiftUi_Appetizers.AppetizerModel) -&gt; Swift.Bool in SwiftUi_Appetizers.Order.add(appetizer: SwiftUi_Appetizers.AppetizerModel) -&gt; ()"
+                  moduleName = "SwiftUi-Appetizers"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cristiancris/Documents/GitHub/SwiftUi-Appetizers/SwiftUi-Appetizers/Models/Order.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "36">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A4E99B7A-6012-46C8-90CE-D77860FEE8ED"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SwiftUi-Appetizers/Models/Order.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "add(appetizer:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A4E99B7A-6012-46C8-90CE-D77860FEE8ED - c7954567a68d7d69"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SwiftUi_Appetizers.Order.add(appetizer: SwiftUi_Appetizers.AppetizerModel) -&gt; ()"
+                  moduleName = "SwiftUi-Appetizers"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cristiancris/Documents/GitHub/SwiftUi-Appetizers/SwiftUi-Appetizers/Models/Order.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "272">
+               </Location>
+               <Location
+                  uuid = "A4E99B7A-6012-46C8-90CE-D77860FEE8ED - c7954567a68d7d69"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SwiftUi_Appetizers.Order.add(appetizer: SwiftUi_Appetizers.AppetizerModel) -&gt; ()"
+                  moduleName = "SwiftUi-Appetizers"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cristiancris/Documents/GitHub/SwiftUi-Appetizers/SwiftUi-Appetizers/Models/Order.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "264">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2E3CD954-FA1E-4DEE-97AD-30B983CBB380"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SwiftUi-Appetizers/Screens/OrderView/OrderCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "55"
+            endingLineNumber = "55"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "2E3CD954-FA1E-4DEE-97AD-30B983CBB380 - 2edb9cad69cf843c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #4 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.background&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.ShapeStyle&gt;(_: &#x3c4;_1_0, ignoresSafeAreaEdges: SwiftUI.Edge.Set) -&gt; some&gt;&gt;.0 in closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.Text, SwiftUI.Button&lt;SwiftUI.Text&gt;, SwiftUI.Text, SwiftUI.Button&lt;&lt;&lt;opaque return type of SwiftUI.View.background&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.ShapeStyle&gt;(_: &#x3c4;_1_0, ignoresSafeAreaEdges: SwiftUI.Edge.Set) -&gt; some&gt;&gt;.0&gt;)&gt; in closure #3 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.Text, SwiftUI.HStack&lt;SwiftUI.TupleView&lt;(SwiftUI.Text, SwiftUI.Button&lt;SwiftUI.Text&gt;, SwiftUI.Text, SwiftUI.Button&lt;&lt;&lt;opaque return type of SwiftUI.View.background&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.ShapeStyle&gt;(_: &#x3c4;_1_0, ignoresSafeAreaEdges: SwiftUI.Edge.Set) -&gt; some&gt;&gt;.0&gt;)&gt;&gt;)&gt; in closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.cornerRadius(_: CoreGraphics.CGFloat, antialiased: Swift.Bool) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0)&gt; in SwiftUi_Appetizers.OrderCell.body.getter : some"
+                  moduleName = "SwiftUi-Appetizers"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cristiancris/Documents/GitHub/SwiftUi-Appetizers/SwiftUi-Appetizers/Screens/OrderView/OrderCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "54"
+                  endingLineNumber = "54"
+                  offsetFromSymbolStart = "404">
+               </Location>
+               <Location
+                  uuid = "2E3CD954-FA1E-4DEE-97AD-30B983CBB380 - b32b2986ce76e43c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #3 () -&gt; () in closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.Text, &lt;&lt;opaque return type of SwiftUI.View.listRowInsets(Swift.Optional&lt;SwiftUI.EdgeInsets&gt;) -&gt; some&gt;&gt;.0, SwiftUI.Text, &lt;&lt;opaque return type of SwiftUI.View.listRowInsets(Swift.Optional&lt;SwiftUI.EdgeInsets&gt;) -&gt; some&gt;&gt;.0)&gt; in closure #3 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.Text, SwiftUI.HStack&lt;SwiftUI.TupleView&lt;(SwiftUI.Text, &lt;&lt;opaque return type of SwiftUI.View.listRowInsets(Swift.Optional&lt;SwiftUI.EdgeInsets&gt;) -&gt; some&gt;&gt;.0, SwiftUI.Text, &lt;&lt;opaque return type of SwiftUI.View.listRowInsets(Swift.Optional&lt;SwiftUI.EdgeInsets&gt;) -&gt; some&gt;&gt;.0)&gt;&gt;)&gt; in closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.cornerRadius(_: CoreGraphics.CGFloat, antialiased: Swift.Bool) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0)&gt; in SwiftUi_Appetizers.OrderCell.body.getter : some"
+                  moduleName = "SwiftUi-Appetizers"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cristiancris/Documents/GitHub/SwiftUi-Appetizers/SwiftUi-Appetizers/Screens/OrderView/OrderCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "54"
+                  endingLineNumber = "54"
+                  offsetFromSymbolStart = "264">
+               </Location>
+               <Location
+                  uuid = "2E3CD954-FA1E-4DEE-97AD-30B983CBB380 - 9a2f4db687489ea2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #3 () -&gt; () in closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.Text, &lt;&lt;opaque return type of SwiftUI.View.buttonStyle&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.PrimitiveButtonStyle&gt;(&#x3c4;_1_0) -&gt; some&gt;&gt;.0, SwiftUI.Text, &lt;&lt;opaque return type of SwiftUI.View.buttonStyle&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.PrimitiveButtonStyle&gt;(&#x3c4;_1_0) -&gt; some&gt;&gt;.0)&gt; in closure #3 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.Text, SwiftUI.HStack&lt;SwiftUI.TupleView&lt;(SwiftUI.Text, &lt;&lt;opaque return type of SwiftUI.View.buttonStyle&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.PrimitiveButtonStyle&gt;(&#x3c4;_1_0) -&gt; some&gt;&gt;.0, SwiftUI.Text, &lt;&lt;opaque return type of SwiftUI.View.buttonStyle&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.PrimitiveButtonStyle&gt;(&#x3c4;_1_0) -&gt; some&gt;&gt;.0)&gt;&gt;)&gt; in closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.cornerRadius(_: CoreGraphics.CGFloat, antialiased: Swift.Bool) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0)&gt; in SwiftUi_Appetizers.OrderCell.body.getter : some"
+                  moduleName = "SwiftUi-Appetizers"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cristiancris/Documents/GitHub/SwiftUi-Appetizers/SwiftUi-Appetizers/Screens/OrderView/OrderCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "54"
+                  endingLineNumber = "54"
+                  offsetFromSymbolStart = "264">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

@@ -1,5 +1,215 @@
 {
   "sourceLanguage" : "en",
-  "strings" : {},
+  "strings" : {
+    "-" : {
+
+    },
+    "%.2f - Place Order" : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%.2f - Fechar Pedido"
+          }
+        }
+      }
+    },
+    "%lld" : {
+
+    },
+    "+" : {
+
+    },
+    "🍔 Appetizers" : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "🍔 Aperitivos"
+          }
+        }
+      }
+    },
+    "👮‍♀️ Account" : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "👮‍♀️Conta"
+          }
+        }
+      }
+    },
+    "🧾 Orders" : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "🧾Pedidos"
+          }
+        }
+      }
+    },
+    "$%.2f" : {
+
+    },
+    "$%.2f - Add to Order" : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "$%.2f - Adicionar"
+          }
+        }
+      }
+    },
+    "Account" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Conta"
+          }
+        }
+      }
+    },
+    "BirthDay" : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Data de nascimento"
+          }
+        }
+      }
+    },
+    "Dismiss" : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fechar"
+          }
+        }
+      }
+    },
+    "Email" : {
+
+    },
+    "Extra Napkins" : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Guardanapos extra"
+          }
+        }
+      }
+    },
+    "First name" : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Primeiro Nome"
+          }
+        }
+      }
+    },
+    "Frequent Refills" : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Recargas frequentes"
+          }
+        }
+      }
+    },
+    "Home" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Início"
+          }
+        }
+      }
+    },
+    "Last name" : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Último nome"
+          }
+        }
+      }
+    },
+    "OK" : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "OK"
+          }
+        }
+      }
+    },
+    "Order" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pedido"
+          }
+        }
+      }
+    },
+    "Orders Empty State" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "You have no items in your order.\\nPlease add an appetizer!"
+          }
+        }
+      }
+    },
+    "Personal Info" : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Informações pessoais"
+          }
+        }
+      }
+    },
+    "Requests" : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Requisições"
+          }
+        }
+      }
+    },
+    "Save Changes" : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Salvar alterações"
+          }
+        }
+      }
+    }
+  },
   "version" : "1.0"
 }

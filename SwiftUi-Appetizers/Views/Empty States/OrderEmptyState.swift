@@ -6,12 +6,17 @@
 //
 
 import SwiftUI
-
 struct OrderEmptyState: View {
+    
+    let orderEmptyMessage = String(localized: "Orders Empty State");
+    
     var body: some View {
-        Text(/*@START_MENU_TOKEN@*/"Hello, World!"/*@END_MENU_TOKEN@*/)
+        EmptyState(imageName: "empty-order",
+                   message: orderEmptyMessage
+        )
     }
 }
+
 
 #Preview {
     OrderEmptyState()

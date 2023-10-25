@@ -54,4 +54,22 @@ final class NetworkManager {
         
         task.resume()
     }
+    
+    
+    func getAppetizerAsync() async throws -> [Appetizer] {
+        guard let url = URL(string: appetizerURL) else {
+            throw ApiError.invalidURL
+        }
+        
+        let (data, response) = try await URLSession.shared.data(from: url)
+        
+        do {
+            let decoder = JSONDecoder()
+            let decodedResponse = try decoder.decode(AppetizerResponse.self, from: data)
+            return decodedResponse.request
+        } catch {
+            print("Unexpected error: \(error).")
+            throw ApiError.invalidData
+        }
+    }
 }

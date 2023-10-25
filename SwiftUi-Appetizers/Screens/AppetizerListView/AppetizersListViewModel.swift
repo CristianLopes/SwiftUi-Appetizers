@@ -7,12 +7,14 @@
 
 import SwiftUI
 
+@MainActor
 final class AppetizersListViewModel: ObservableObject {
     
     @Published var appetizers: [Appetizer] = []
     @Published var alertItem: AlertItem?
     @Published var isLoading: Bool = false
-    
+    @Published var isShowingDetail: Bool = false
+    @Published var selectedAppetizer: Appetizer?
     
     func getAppetizers() {
         isLoading = true
@@ -36,6 +38,35 @@ final class AppetizersListViewModel: ObservableObject {
                     }
                 }
             }
+        }
+    }
+    
+    func getAppetizersAsync() async {
+        isLoading = true
+        
+        do {
+            appetizers = try await NetworkManager.shared.getAppetizerAsync()
+            isLoading = false
+        }
+        catch {
+            if let apiError = error as? ApiError {
+                switch apiError {
+                    
+                case .invalidData:
+                    alertItem = AlertContext.invalidData
+                case .invalidURL:
+                    alertItem = AlertContext.invalidUrl
+                case .invalidReponse:
+                    alertItem = AlertContext.invalidResponse
+                case .unableToComplete:
+                    alertItem = AlertContext.unableToComplete
+                }
+            }
+            else {
+                alertItem = AlertContext.invalidResponse
+            }
+            
+            isLoading = false
         }
     }
 }

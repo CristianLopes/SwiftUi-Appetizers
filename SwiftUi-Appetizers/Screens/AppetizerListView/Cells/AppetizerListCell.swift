@@ -9,7 +9,7 @@
 
     struct AppetizerListCell: View {
 
-    let appetizer: Appetizer
+    let appetizer: AppetizerModel
 
     var body: some View {
             HStack(){
@@ -18,7 +18,6 @@
                 } placeholder: {
                     Image("food-placeholder")
                         .resizable()
-                    //ProgressView().progressViewStyle(.circular)
                 }
                     .aspectRatio(contentMode: .fit)
                     .frame(width: 120, height: 90 )
